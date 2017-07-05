@@ -30,4 +30,4 @@ build:
     - script:
         name: go build
         code: |
-          go install github.com/cloudfoundry-community/s3-broker
+          go install github.com/ikrishnamurthy/s3-broker
